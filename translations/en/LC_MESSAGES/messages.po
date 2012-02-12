@@ -1,0 +1,74 @@
+# English translations for PROJECT.
+# Copyright (C) 2012 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2012-02-13 03:25+0500\n"
+"PO-Revision-Date: 2012-02-13 03:26+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+
+#: application.py:45 application.py:49
+msgid "Missing parameter"
+msgstr ""
+
+#: application.py:46
+msgid "Email parameter is mandatory."
+msgstr ""
+
+#: application.py:50
+msgid "Certificate serial number parameter is mandatory."
+msgstr ""
+
+#: application.py:88 application.py:103 application.py:107 application.py:114
+#: application.py:119
+msgid "Something went wrong"
+msgstr ""
+
+#: application.py:89 application.py:104
+msgid "Encryption problem. Sorry for the inconvenience!"
+msgstr ""
+
+#: application.py:108
+msgid "Can not receive key. Sorry for the inconvenience!"
+msgstr ""
+
+#: application.py:115 application.py:120
+msgid "Please try again later. Sorry for the inconvenience!"
+msgstr ""
+
+#: application.py:116
+msgid "Request was completed successfully"
+msgstr ""
+
+#: application.py:117
+msgid "Your receipt will be emailed shortly. Thank you for your patience!"
+msgstr ""
+
+#: application.py:122
+msgid "Malformed request"
+msgstr ""
+
+#: application.py:123
+msgid ""
+"You should use POST request with Content-Type: application/x-www-form-"
+"urlencoded and appropriate parameters list."
+msgstr ""
+
+#: templates.py:32
+msgid "WebShop Mailreceipt"
+msgstr ""
+
+#: templates.py:59
+msgid "Payment receipt, reference:"
+msgstr ""
+
